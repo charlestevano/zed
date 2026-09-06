@@ -60,6 +60,7 @@
     "file_icons": true,
   },
   "project_panel": {
+    "dock": "left",
     "hide_root": true,
     "git_status_indicator": true,
     "diagnostic_badges": true,
